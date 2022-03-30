@@ -1,6 +1,7 @@
 package codingSimplified.leetcode;
 
 public class AdjcentValueDiff1 {
+	// in this one we are directly juming to the next possible position
 	public static void main(String[] args) {
 
 		AdjcentValueDiff1 a = new AdjcentValueDiff1();
